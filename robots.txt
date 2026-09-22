@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rich1eyt.github.io/sitemap.xml
